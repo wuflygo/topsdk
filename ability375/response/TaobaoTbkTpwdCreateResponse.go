@@ -1,7 +1,7 @@
 package response
 
 import (
-	"github.com/wuflygo/topsdkability375/domain"
+	"github.com/wuflygo/topsdk/ability375/domain"
 )
 
 type TaobaoTbkTpwdCreateResponse struct {

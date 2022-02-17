@@ -1,7 +1,7 @@
 package response
 
 import (
-	"github.com/wuflygo/topsdkability304/domain"
+	"github.com/wuflygo/topsdk/ability304/domain"
 )
 
 type TaobaoFilesGetResponse struct {

@@ -3,12 +3,13 @@ package ability375
 import (
 	"errors"
 	"log"
-	"topsdk"
+
+	"github.com/wuflygo/topsdk/topsdk"
 
 	"github.com/wuflygo/topsdk/util"
 
-	"github.com/wuflygo/topsdkability375/request"
-	"github.com/wuflygo/topsdkability375/response"
+	"github.com/wuflygo/topsdk/ability375/request"
+	"github.com/wuflygo/topsdk/ability375/response"
 )
 
 type Ability375 struct {

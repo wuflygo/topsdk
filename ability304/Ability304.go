@@ -3,12 +3,13 @@ package ability304
 import (
 	"errors"
 	"log"
-	"topsdk"
+
+	"github.com/wuflygo/topsdk/topsdk"
 
 	"github.com/wuflygo/topsdk/util"
 
-	"github.com/wuflygo/topsdkability304/request"
-	"github.com/wuflygo/topsdkability304/response"
+	"github.com/wuflygo/topsdk/ability304/request"
+	"github.com/wuflygo/topsdk/ability304/response"
 )
 
 type Ability304 struct {

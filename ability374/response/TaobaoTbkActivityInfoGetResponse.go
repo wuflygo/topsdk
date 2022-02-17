@@ -1,7 +1,7 @@
 package response
 
 import (
-	"github.com/wuflygo/topsdkability374/domain"
+	"github.com/wuflygo/topsdk/ability374/domain"
 )
 
 type TaobaoTbkActivityInfoGetResponse struct {
