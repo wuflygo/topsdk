@@ -4,7 +4,8 @@ import (
 	"errors"
 	"log"
 	"topsdk"
-	"topsdk/util"
+
+	"github.com/wuflygo/topsdk/util"
 
 	"github.com/wuflygo/topsdkability374/request"
 	"github.com/wuflygo/topsdkability374/response"

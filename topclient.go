@@ -11,7 +11,8 @@ import (
 	"net/url"
 	"strings"
 	"time"
-	"topsdk/util"
+
+	"github.com/wuflygo/topsdk/util"
 )
 
 type TopClient struct {

@@ -1,6 +1,6 @@
 package request
 
-import "topsdk/util"
+import "github.com/wuflygo/topsdk/util"
 
 type TaobaoFilesGetRequest struct {
 	/*
